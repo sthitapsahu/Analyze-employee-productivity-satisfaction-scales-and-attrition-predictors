@@ -54,11 +54,14 @@ The raw dataset parameters yield a critical snapshot of workforce distribution a
 This unified dashboard links Codec Technologies' Agile management indicators directly with statistical workforce data outcomes[span_26](start_span)[span_26](end_span).
 ![Executive Dashboard](1000242122.png)
 
+
 ### 2. Core Excel KPI Data Sheet
 ![Analysis Sheet](1000242095.jpg)
 
+
 ### 3. Pivot Tables & Chart Mapping Architecture
 ![Pivot Tables and Charts](1000242097.jpg)
+
 
 ---
 
